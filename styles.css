@@ -161,6 +161,10 @@ h3 {
     padding: 3.2rem;
   }
 
+  .component__img {
+  width:5.0rem;
+}
+
   .rating__btn {
     width: 5.1rem;
     height: 5.1rem;
